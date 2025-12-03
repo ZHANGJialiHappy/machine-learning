@@ -196,9 +196,7 @@ CRITICAL REMINDERS:
 
 
 def invoke_bedrock_model(transcript):
-    """
-    使用InvokeModel API调用Claude（与用户成功的代码相同方式）
-    """
+
     try:
         # 创建Bedrock运行时客户端
         config = Config(
