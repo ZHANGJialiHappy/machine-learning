@@ -1,0 +1,4 @@
+rewrite date in prophet/generate_train_dataset.py
+python prophet/generate_train_dataset.py
+python prophet/batch_train_prophet.py
+python statistics/compare_prediction_methods.py

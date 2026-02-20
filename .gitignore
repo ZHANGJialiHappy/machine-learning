@@ -3,4 +3,8 @@ models/
 venv/
 __pycache__/
 .DS_Store
-statistics/
+batch_models/
+statistics/consumption analysis/
+statistics/report/
+processed.csv
+raw.csv
